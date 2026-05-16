@@ -1,0 +1,10 @@
+# CodeReview-AI Dependencies
+# This project has zero runtime dependencies!
+# All functionality is implemented using Python standard library only.
+
+# Optional: For development only
+# pytest>=7.0
+# pytest-cov>=4.0
+# black>=23.0
+# flake8>=6.0
+# mypy>=1.0
